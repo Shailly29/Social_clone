@@ -18,9 +18,9 @@
 
 ## ✌Architecture:
 
-   ## 👉Website
+## 👉Website
 
-      1. The website revolves around **React JS**.
+      
       2. **React Hooks** is used as different components of the project , And They let you use state and other React features without writing a class .
 
    ## 👉API
@@ -38,6 +38,6 @@
    
 ## ✌Contact Information:
 
-   * **Email-Id:** [Shaillyshah2946@gmail.com]
-   * **LinkedIn:** [https://www.linkedin.com/in/shailly-shah/]
+   
+   * **LinkedIn:** [https://www.linkedin.com/in/shailly-shah/]()
    * **Github:** [https://github.com/Shailly29/Social_clone]

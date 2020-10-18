@@ -26,7 +26,7 @@
    ## 👉API
       1. Here we use Rest Api's ,APIs consist of a set of data, that is often in JSON format with specified endpoints.
       2. Context API is used for **SignIn/SignUp** page.
-# 👉Database and Image Storage
+## 👉Database and Image Storage
    * The data is stored in **MongoDB** , which is called by the **Api's**.
    * The reason behind using MongoDB here is that **MongoDB's** horizontal, scale-out architecture can support huge volumes of both data and traffic.
    * The photos and videos are getting stored in a cloud service platform that is knows as **Cloudinary**.
